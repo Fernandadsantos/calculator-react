@@ -1,0 +1,15 @@
+#display{
+    background-color: #e6d7d7;
+    margin-top: 20px;
+    margin-bottom: 60px;
+    width: 70%;
+    height: 10%;
+    border-radius: 5px;
+    text-align: end;
+    padding-right: 30px;
+}
+
+.currentDisplayContent{
+    margin-top: 8px;
+    font-size: 34px;
+}
